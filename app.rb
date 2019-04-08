@@ -1,7 +1,7 @@
 class App < Sinatra::Base
 
 	get '/' do
-		erb :index
+		"yo"
 	end
 
 	get '/hello' do
